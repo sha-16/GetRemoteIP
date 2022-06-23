@@ -1,5 +1,5 @@
 # GetRemoteIP 🔎💥
-Este es un aplicativo que te permite obtener IPs públicas y algunos otros datos de usuarios por medio una blind request. 
+Este es un aplicativo que te permite obtener IPs públicas y algunos otros datos con la requerida interacción de un usuario al clicar un enlace 🐱‍👤
 
 ## Execution ⚡
 ```bash
